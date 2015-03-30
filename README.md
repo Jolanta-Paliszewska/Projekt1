@@ -1,4 +1,4 @@
-Sitichtypo
+Stitchtypo
 ========
 My processing sketches 
 
