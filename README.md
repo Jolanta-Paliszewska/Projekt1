@@ -1,6 +1,12 @@
 Sitichtypo
 ========
-...
+My processing sketches 
+
+![image] (stitchtypo.png)
+
+This Project was made for the Input/Output.
+
+University of applied sciences in Potsdam Semester 2014/15
 
 License
 ========
