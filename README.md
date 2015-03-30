@@ -2,7 +2,7 @@ Sitichtypo
 ========
 My processing sketches 
 
-![image] (stitchtypo.png)
+![image] (stichtypo.png)
 
 This Project was made for the Input/Output.
 
