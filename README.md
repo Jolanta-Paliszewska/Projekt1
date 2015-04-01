@@ -1,6 +1,7 @@
 Stitchtypo
 ========
-My processing sketches 
+Processing is used to explore the creative possibilities of coding, starting from analog algorithms and pattern instructions. 
+#####My processing sketches:
 
 ![image] (stitchtypo.png)
 
